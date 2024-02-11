@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "web-modul-02-05"
+version = "0.1.0"
+description = ""
+authors = ["Daryna Mirzaholi <dmirzagholi@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+aiohttp = "^3.9.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
